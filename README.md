@@ -7,3 +7,6 @@ In this project, linear regression is implemented utilizing various machine lear
  
 In addition, functionalities of *matplotlib* are widely used in order for **Visualizing Data**. Other library that I used for implementation is NumPy that provides us with **vectorization**.
 
+![Alt text](https://github.com/Sina-Akhavi/linear_regression/blob/master/images/Figure_1.png)
+
+
