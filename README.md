@@ -24,7 +24,7 @@ the model will be as follows:
 ![Alt text](https://github.com/Sina-Akhavi/linear_regression/blob/master/images/Figure_2.png)
 
 ## The Learning Curve
-the learning curve:
+the learning curve:  
 ![Alt text](https://github.com/Sina-Akhavi/linear_regression/blob/master/images/Figure_1.png)
 
 
