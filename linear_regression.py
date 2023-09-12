@@ -6,24 +6,24 @@ from utilities.utils import *
 
 x_train, y_train = load_data()
 
-# print(f'type of x_train is {type(x_train)}')
-# print(f'type of y_train is {type(y_train)}')
+print(f'type of x_train is {type(x_train)}')
+print(f'type of y_train is {type(y_train)}')
 
-# number_items = 6
-# print(f'the first {number_items}th Xs: {x_train[:6]}')
-# print(f'the first {number_items}th Ys: {y_train[:6]}')
-# print(f'number of x_train is {x_train.shape}')
-# print(f'number of y_train is {y_train.shape}')
+number_items = 6
+print(f'the first {number_items}th Xs: {x_train[:6]}')
+print(f'the first {number_items}th Ys: {y_train[:6]}')
+print(f'number of x_train is {x_train.shape}')
+print(f'number of y_train is {y_train.shape}')
 
 # ------------------ plotting ------------------
 
-# plt.scatter(x_train, y_train, c='r', marker='x')
-# plt.axis([0, 30, 0, 40])
-# plt.title('population vs. profits')
-# plt.xlabel('population times 10,000')
-# plt.ylabel('profit in $10,000')
+plt.scatter(x_train, y_train, c='r', marker='x')
+plt.axis([0, 30, 0, 40])
+plt.title('population vs. profits')
+plt.xlabel('population times 10,000')
+plt.ylabel('profit in $10,000')
 
-# plt.show()
+plt.show()
 
 # ------------------ cost function ------------------
 def compute_cost(x, y, w, b):
