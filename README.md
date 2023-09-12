@@ -17,8 +17,19 @@ For these cities, you have the city population.
 
 Can you use the data to help you identify which cities may potentially give your business higher profits?
 ## Data Set
-dataset is as follows:
-![Alt text](https://github.com/Sina-Akhavi/linear_regression/blob/master/images/Figure_1.png)
+dataset is as follows:  
+![Alt text]([https://github.com/Sina-Akhavi/linear_regression/blob/master/images/Figure_1.png](https://github.com/Sina-Akhavi/linear_regression/blob/master/images/Figure_3.png)https://github.com/Sina-Akhavi/linear_regression/blob/master/images/Figure_3.png)
+
+## The Model
+the model will be as follows:  
+![Alt text]([https://github.com/Sina-Akhavi/linear_regression/blob/master/images/Figure_1.png](https://github.com/Sina-Akhavi/linear_regression/blob/master/images/Figure_3.png)https://github.com/Sina-Akhavi/linear_regression/blob/master/images/Figure_2.png)
+
+## The Learning Curve
+the learning curve:
+![Alt text]([https://github.com/Sina-Akhavi/linear_regression/blob/master/images/Figure_1.png](https://github.com/Sina-Akhavi/linear_regression/blob/master/images/Figure_3.png)https://github.com/Sina-Akhavi/linear_regression/blob/master/images/Figure_1.png)
+
+
+
 
 
 
