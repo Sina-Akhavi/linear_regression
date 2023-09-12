@@ -18,8 +18,7 @@ For these cities, you have the city population.
 Can you use the data to help you identify which cities may potentially give your business higher profits?
 ## Data Set
 dataset is as follows:  
-![Alt text]([https://github.com/Sina-Akhavi/linear_regression/blob/master/images/Figure_3.png])
-
+![Employee data]()
 ## The Model
 the model will be as follows:  
 ![Alt text]([https://github.com/Sina-Akhavi/linear_regression/blob/master/images/Figure_2.png])
