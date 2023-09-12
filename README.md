@@ -1,4 +1,4 @@
-# linear_regression
+# Linear Regression
 
 In this project, linear regression is implemented utilizing various machine learning algorithms including:
 1. Gradient Descent
